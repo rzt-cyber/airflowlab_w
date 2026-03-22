@@ -1,0 +1,251 @@
+Brand,Model,Year,BodyType,FuelType,Transmission,Mileage_km,Engine_cm3,Power_hp,Price_eur
+Mercedes-Benz,A-Class,2008,Hatchback,Hybrid,Automatic,201069,1216,127,5477
+Hyundai,Kona,2024,Minivan,Diesel,Automatic,15000,1395,109,48714
+Skoda,Octavia,2014,Sedan,Hybrid,Manual,134399,1678,166,26715
+Renault,Captur,2020,Universal,Diesel,Automatic,56759,1197,112,40324
+Toyota,RAV4,2011,SUV/Crossover,Petrol,Automatic,166166,1498,71,12398
+Toyota,Corolla,2011,Sedan,Petrol,Manual,165624,1997,122,11739
+Volkswagen,Passat,2013,SUV/Crossover,Diesel,Manual,143588,1999,159,19688
+Ford,Fiesta,2019,SUV/Crossover,Diesel,Manual,71892,1598,96,32196
+Renault,Captur,2014,SUV/Crossover,Petrol,Automatic,134673,1498,113,22433
+Opel,Astra,2017,Coupe,Petrol,Automatic,93932,2498,118,30781
+Volkswagen,Passat,2014,Sedan,Petrol,Automatic,133493,1968,208,25920
+Hyundai,i30,2010,SUV/Crossover,Petrol,Manual,182028,1998,136,7920
+Ford,Fiesta,2020,Universal,Diesel,Automatic,60793,1998,173,36519
+Toyota,RAV4,2020,Hatchback,Petrol,Automatic,58961,999,63,38117
+Toyota,RAV4,2015,SUV/Crossover,Diesel,Manual,120722,1197,96,21448
+Toyota,Corolla,2016,Hatchback,Diesel,Manual,111006,1968,178,26538
+BMW,3 Series,2014,Hatchback,Diesel,Automatic,135356,1197,115,23617
+Audi,A3,2008,SUV/Crossover,Hybrid,Manual,211261,1407,135,5677
+Mercedes-Benz,GLC,2010,SUV/Crossover,Petrol,Automatic,176039,2998,211,16789
+BMW,1 Series,2020,Sedan,Diesel,Manual,58239,1968,166,40735
+Renault,Megane,2024,SUV/Crossover,Diesel,Manual,15000,1998,201,52944
+Volkswagen,Passat,2008,Sedan,Petrol,Manual,207724,1968,145,1800
+BMW,X3,2013,Sedan,Electric,Manual,142661,0,374,38813
+Mercedes-Benz,E-Class,2013,Sedan,Petrol,Automatic,144824,1197,79,17469
+Mercedes-Benz,C-Class,2019,Sedan,Petrol,Manual,69582,1498,131,33211
+Skoda,Karoq,2020,Hatchback,Diesel,Automatic,58693,1395,127,39840
+Toyota,Prius,2020,SUV/Crossover,Petrol,Manual,64892,1498,97,30931
+Audi,A4,2022,Coupe,Hybrid,Automatic,38776,1765,147,48753
+Renault,Clio,2023,Sedan,Diesel,Manual,23553,1498,136,44041
+Volkswagen,Polo,2018,Minivan,Hybrid,Automatic,87071,1849,159,34303
+Renault,Scenic,2012,SUV/Crossover,Diesel,Automatic,159159,1498,85,12068
+Toyota,Prius,2011,Hatchback,Diesel,Manual,166434,1197,68,12973
+Volkswagen,Golf,2010,Universal,Hybrid,Manual,174123,2042,172,13270
+Hyundai,Santa Fe,2022,Universal,Petrol,Automatic,32403,1197,107,46582
+Hyundai,i30,2016,Sedan,Electric,Automatic,102637,0,209,38770
+Ford,Mondeo,2024,Hatchback,Petrol,Manual,16657,1197,103,42351
+BMW,5 Series,2021,Universal,Diesel,Automatic,53352,1498,118,38945
+Volkswagen,Passat,2022,SUV/Crossover,Petrol,Automatic,42345,1998,128,46051
+Opel,Insignia,2008,Sedan,Diesel,Automatic,195921,1395,117,6203
+Mercedes-Benz,C-Class,2010,Coupe,Petrol,Automatic,184285,1498,137,9481
+Volkswagen,Passat,2023,Coupe,Hybrid,Automatic,32848,2103,205,52835
+Audi,Q7,2018,Coupe,Hybrid,Manual,88447,1760,177,37184
+Volkswagen,Passat,2019,Coupe,Electric,Manual,63395,0,213,49307
+Hyundai,Tucson,2017,Coupe,Petrol,Manual,103073,1968,146,31578
+Toyota,Corolla,2023,Sedan,Diesel,Automatic,24166,1598,94,45595
+Opel,Crossland,2015,Sedan,Diesel,Automatic,119070,1968,140,23354
+BMW,5 Series,2013,SUV/Crossover,Petrol,Manual,145804,1197,60,13346
+Audi,Q5,2019,Minivan,Petrol,Automatic,67803,1968,100,35345
+Audi,A6,2015,Hatchback,Petrol,Automatic,120011,1498,102,21309
+Toyota,Yaris,2011,SUV/Crossover,Diesel,Automatic,174481,2498,165,13586
+Hyundai,i20,2015,SUV/Crossover,Diesel,Manual,122489,1197,88,22797
+Skoda,Karoq,2012,Hatchback,Diesel,Manual,156233,1598,111,14794
+Hyundai,Santa Fe,2016,SUV/Crossover,Petrol,Manual,108358,1968,141,26040
+Hyundai,Santa Fe,2011,Minivan,Petrol,Manual,163274,999,87,8649
+Renault,Duster,2024,SUV/Crossover,Petrol,Manual,15000,1498,95,45443
+Hyundai,Kona,2016,SUV/Crossover,Electric,Manual,101462,0,348,41770
+Volkswagen,Polo,2008,Hatchback,Petrol,Manual,208089,1999,179,7071
+Toyota,Yaris,2020,SUV/Crossover,Petrol,Manual,51257,1498,107,38607
+Volkswagen,Polo,2023,Hatchback,Petrol,Manual,27419,1999,138,40865
+BMW,X3,2020,Hatchback,Hybrid,Automatic,63917,2012,186,41783
+Mercedes-Benz,GLE,2021,SUV/Crossover,Electric,Manual,53275,0,240,49046
+BMW,1 Series,2010,Sedan,Diesel,Automatic,180347,1197,68,7982
+Ford,Fiesta,2013,Sedan,Diesel,Automatic,147666,1998,118,19323
+BMW,X5,2012,SUV/Crossover,Diesel,Manual,155361,1498,88,10852
+BMW,5 Series,2022,Hatchback,Petrol,Manual,31253,1997,164,41831
+Audi,Q5,2009,Hatchback,Electric,Manual,198122,0,195,15142
+Toyota,Corolla,2017,SUV/Crossover,Diesel,Automatic,95612,1197,82,29807
+Ford,Kuga,2020,SUV/Crossover,Diesel,Automatic,54361,1998,160,41403
+Volkswagen,Polo,2012,Sedan,Diesel,Manual,154132,1498,100,13031
+Hyundai,Tucson,2008,Minivan,Diesel,Automatic,202290,1997,158,8126
+Skoda,Superb,2008,Hatchback,Diesel,Manual,205846,1997,104,2289
+Toyota,Yaris,2022,SUV/Crossover,Electric,Manual,45388,0,178,51691
+Volkswagen,Passat,2024,SUV/Crossover,Hybrid,Automatic,15000,1477,147,57009
+Ford,Puma,2018,Universal,Diesel,Manual,84827,1998,143,35683
+Opel,Corsa,2024,Coupe,Diesel,Automatic,21823,1197,60,44115
+Skoda,Fabia,2020,SUV/Crossover,Petrol,Manual,63915,999,101,36852
+Skoda,Karoq,2008,Coupe,Diesel,Automatic,205016,1999,121,7824
+Volkswagen,Golf,2009,Sedan,Petrol,Manual,190082,1395,108,2927
+BMW,5 Series,2016,Sedan,Diesel,Manual,109264,1498,107,27490
+Volkswagen,Passat,2010,SUV/Crossover,Electric,Automatic,179734,0,271,28845
+Ford,Focus,2008,Hatchback,Diesel,Manual,204365,1498,162,3411
+Renault,Megane,2023,Coupe,Diesel,Automatic,29257,1395,67,42860
+BMW,3 Series,2013,Sedan,Petrol,Automatic,141838,2998,198,24312
+Volkswagen,Touareg,2024,SUV/Crossover,Petrol,Automatic,15000,1197,90,48117
+BMW,1 Series,2012,Hatchback,Diesel,Automatic,159795,1998,115,17829
+BMW,3 Series,2012,Hatchback,Petrol,Automatic,153351,1997,162,18561
+Skoda,Karoq,2013,SUV/Crossover,Petrol,Automatic,140709,2998,235,24503
+Renault,Scenic,2010,SUV/Crossover,Diesel,Automatic,179398,1968,155,10127
+Hyundai,Kona,2012,SUV/Crossover,Diesel,Automatic,154153,1498,113,19242
+Audi,Q5,2012,Hatchback,Diesel,Manual,160609,1395,134,18024
+Volkswagen,Polo,2017,Hatchback,Petrol,Manual,91992,1999,114,27496
+Opel,Astra,2017,Coupe,Diesel,Automatic,96273,2498,180,33252
+Skoda,Kodiaq,2024,Sedan,Diesel,Manual,22184,1968,122,44334
+Renault,Scenic,2021,SUV/Crossover,Diesel,Manual,49652,1395,122,41179
+Skoda,Octavia,2016,SUV/Crossover,Diesel,Manual,110317,1197,60,24953
+Audi,Q7,2021,SUV/Crossover,Petrol,Manual,52642,1197,85,36972
+Audi,A6,2008,SUV/Crossover,Diesel,Automatic,202148,1998,151,9942
+Mercedes-Benz,A-Class,2020,Coupe,Diesel,Automatic,55674,1598,90,37571
+Volkswagen,Golf,2020,Universal,Hybrid,Manual,60706,1619,140,41648
+Volkswagen,Polo,2011,Hatchback,Diesel,Manual,169061,1998,143,11152
+Volkswagen,Touareg,2008,Sedan,Diesel,Automatic,197527,1197,109,6026
+Renault,Duster,2024,Hatchback,Petrol,Manual,15000,1968,115,46413
+BMW,5 Series,2015,Hatchback,Diesel,Automatic,124279,1598,93,24433
+Audi,A4,2009,SUV/Crossover,Hybrid,Manual,188348,1517,176,11011
+Hyundai,Kona,2015,Minivan,Diesel,Manual,121742,1998,136,23811
+Toyota,Prius,2014,Sedan,Diesel,Automatic,135569,1999,123,24292
+Mercedes-Benz,C-Class,2009,Sedan,Diesel,Manual,194346,2498,197,9021
+Skoda,Karoq,2010,Sedan,Diesel,Automatic,182724,1395,87,6467
+Toyota,RAV4,2019,SUV/Crossover,Diesel,Automatic,71020,999,97,39347
+Volkswagen,Passat,2008,SUV/Crossover,Hybrid,Manual,199489,1543,134,10494
+BMW,1 Series,2019,Sedan,Petrol,Automatic,70211,1197,82,30940
+Toyota,Prius,2012,Minivan,Diesel,Automatic,153655,1498,131,19215
+Hyundai,Tucson,2024,Coupe,Electric,Manual,15000,0,296,61933
+Ford,Mondeo,2023,Sedan,Petrol,Automatic,28373,1998,162,48190
+Renault,Megane,2022,SUV/Crossover,Petrol,Automatic,30752,1197,84,43067
+Hyundai,Tucson,2022,Coupe,Petrol,Automatic,36577,1968,190,45755
+Ford,Kuga,2012,Hatchback,Hybrid,Automatic,151746,1693,200,21205
+Toyota,RAV4,2021,Sedan,Petrol,Manual,45039,999,60,35178
+Hyundai,i20,2009,Sedan,Petrol,Automatic,194234,999,84,3906
+Audi,Q7,2018,Sedan,Petrol,Automatic,79240,1498,87,29661
+Ford,Puma,2014,Minivan,Petrol,Automatic,134936,2498,183,23627
+Hyundai,Santa Fe,2013,Minivan,Petrol,Automatic,138591,1395,101,16718
+BMW,5 Series,2009,Sedan,Diesel,Automatic,194667,1498,81,8517
+Volkswagen,Golf,2013,Sedan,Diesel,Manual,137801,999,98,20868
+Toyota,Prius,2009,Sedan,Petrol,Automatic,189528,1999,148,7682
+Mercedes-Benz,GLC,2022,Sedan,Petrol,Automatic,43585,1598,107,42880
+Ford,Mondeo,2009,Minivan,Petrol,Automatic,198834,1998,132,8672
+Ford,Mondeo,2013,Hatchback,Petrol,Automatic,142349,2998,218,23870
+Volkswagen,Passat,2008,Hatchback,Diesel,Manual,205559,1395,110,3862
+Audi,Q5,2022,Sedan,Diesel,Manual,40816,1999,140,44969
+Mercedes-Benz,GLE,2017,SUV/Crossover,Petrol,Manual,98725,999,60,26263
+Toyota,Corolla,2024,Hatchback,Diesel,Manual,15000,2498,179,47887
+Volkswagen,Golf,2012,SUV/Crossover,Petrol,Automatic,153005,1968,105,17469
+BMW,1 Series,2011,Sedan,Hybrid,Automatic,171472,2136,187,21028
+Hyundai,i30,2017,Coupe,Diesel,Automatic,100522,999,60,26379
+BMW,X3,2024,SUV/Crossover,Diesel,Manual,18862,1197,60,45494
+Audi,Q7,2017,Sedan,Petrol,Automatic,89251,1498,138,32433
+Opel,Crossland,2024,Hatchback,Hybrid,Manual,15000,794,100,49119
+Mercedes-Benz,GLC,2012,Minivan,Petrol,Manual,160647,1395,90,14848
+Hyundai,i20,2009,Universal,Petrol,Automatic,185793,1498,119,13247
+Hyundai,i20,2013,Hatchback,Petrol,Automatic,148954,1197,76,14714
+Toyota,RAV4,2009,Hatchback,Petrol,Manual,191140,1598,167,4710
+Audi,Q5,2020,Minivan,Electric,Manual,57916,0,320,54035
+BMW,X5,2018,SUV/Crossover,Diesel,Manual,84821,1598,123,33482
+BMW,1 Series,2018,Sedan,Petrol,Manual,78618,999,96,29543
+Volkswagen,Touareg,2023,Minivan,Diesel,Automatic,27296,1598,154,51733
+Renault,Duster,2018,Sedan,Electric,Manual,90758,0,296,43234
+Audi,A4,2022,SUV/Crossover,Hybrid,Manual,39482,1301,122,46476
+Volkswagen,Touareg,2023,Sedan,Diesel,Manual,23013,1197,117,44226
+BMW,X3,2018,Sedan,Hybrid,Manual,77847,2122,212,42147
+Hyundai,Tucson,2023,Hatchback,Electric,Manual,18001,0,288,65063
+Toyota,Camry,2015,Coupe,Diesel,Manual,114681,1999,109,21899
+Toyota,Corolla,2011,Sedan,Petrol,Manual,167950,1998,181,12595
+Audi,A4,2015,Sedan,Petrol,Manual,120453,1999,124,24415
+Hyundai,Kona,2011,Sedan,Hybrid,Automatic,171473,1794,173,17630
+Toyota,RAV4,2010,SUV/Crossover,Petrol,Manual,172815,1968,137,9752
+Opel,Astra,2010,Universal,Hybrid,Automatic,185244,2281,181,16004
+Skoda,Superb,2012,Hatchback,Petrol,Manual,158777,1968,105,9071
+Toyota,RAV4,2017,SUV/Crossover,Petrol,Automatic,94692,1968,97,28871
+Skoda,Kodiaq,2013,Minivan,Petrol,Automatic,139240,1968,144,18500
+Mercedes-Benz,C-Class,2008,SUV/Crossover,Petrol,Automatic,208996,1598,76,1800
+Renault,Duster,2012,Sedan,Electric,Automatic,154799,0,307,35672
+Renault,Megane,2016,Hatchback,Hybrid,Manual,107919,1824,165,27685
+Audi,Q7,2019,Hatchback,Hybrid,Manual,73534,2191,131,39065
+Volkswagen,Passat,2021,Hatchback,Diesel,Manual,44347,1395,119,39738
+Ford,Puma,2009,Hatchback,Petrol,Automatic,190871,999,60,4615
+BMW,X3,2024,Coupe,Diesel,Manual,15461,1968,139,50659
+Toyota,Yaris,2021,Hatchback,Diesel,Manual,51056,1395,100,39803
+Volkswagen,Polo,2020,Hatchback,Diesel,Automatic,63092,1999,156,41648
+Renault,Clio,2016,SUV/Crossover,Petrol,Automatic,103379,999,70,27360
+Opel,Grandland,2022,Hatchback,Diesel,Automatic,35053,1395,150,45206
+Volkswagen,Touareg,2022,Minivan,Diesel,Automatic,34414,1998,148,44620
+Audi,A3,2018,SUV/Crossover,Electric,Automatic,85700,0,313,46677
+Toyota,Prius,2023,Hatchback,Hybrid,Manual,25342,2116,173,48188
+Opel,Astra,2024,SUV/Crossover,Diesel,Manual,15000,2498,181,57178
+Toyota,Yaris,2011,SUV/Crossover,Diesel,Manual,177862,2498,217,18439
+Opel,Corsa,2008,SUV/Crossover,Diesel,Manual,202836,1498,101,1800
+Mercedes-Benz,GLC,2015,Hatchback,Petrol,Automatic,118368,1498,112,21051
+Hyundai,i20,2024,Hatchback,Hybrid,Manual,15000,2055,211,55206
+Volkswagen,Tiguan,2010,Coupe,Hybrid,Automatic,173848,2062,169,17562
+BMW,X5,2022,Sedan,Diesel,Manual,31118,1968,87,43195
+Volkswagen,Passat,2022,Hatchback,Petrol,Automatic,33125,1999,149,44349
+Hyundai,i20,2021,Sedan,Petrol,Automatic,53240,1395,124,40164
+Hyundai,Kona,2021,Coupe,Diesel,Manual,48156,1598,80,39229
+Toyota,Prius,2009,Sedan,Petrol,Manual,192773,1395,116,5747
+Opel,Corsa,2020,Minivan,Hybrid,Manual,59614,2302,221,38919
+Ford,Puma,2021,SUV/Crossover,Petrol,Manual,49461,1968,84,36894
+Renault,Clio,2014,Coupe,Petrol,Manual,137608,1968,117,17195
+Audi,Q5,2010,Universal,Hybrid,Manual,172024,1676,150,14291
+Toyota,Corolla,2022,Minivan,Diesel,Manual,40873,1395,95,48037
+Volkswagen,Golf,2021,Minivan,Petrol,Automatic,37939,1598,96,41373
+Hyundai,i20,2018,Hatchback,Petrol,Automatic,84112,1998,123,31901
+Hyundai,Santa Fe,2022,SUV/Crossover,Petrol,Automatic,44767,1968,182,47323
+Renault,Clio,2020,Sedan,Diesel,Manual,62722,999,69,36104
+BMW,1 Series,2013,Sedan,Petrol,Automatic,145492,2498,161,21175
+BMW,X3,2010,SUV/Crossover,Diesel,Manual,188007,999,70,8394
+Skoda,Kodiaq,2022,SUV/Crossover,Electric,Manual,33187,0,298,62589
+Hyundai,i20,2012,Hatchback,Petrol,Automatic,157735,999,73,11313
+Hyundai,Santa Fe,2017,SUV/Crossover,Hybrid,Manual,98312,1717,157,33729
+Skoda,Fabia,2014,Minivan,Electric,Automatic,129910,0,281,35009
+Opel,Grandland,2024,SUV/Crossover,Petrol,Automatic,15000,2998,198,53242
+Volkswagen,Golf,2014,SUV/Crossover,Hybrid,Manual,129824,2043,171,23337
+Toyota,Camry,2019,Coupe,Diesel,Manual,72349,1197,94,32574
+Hyundai,Santa Fe,2024,Universal,Hybrid,Manual,15000,1513,123,49922
+Renault,Clio,2020,SUV/Crossover,Diesel,Automatic,60492,1197,95,40227
+Volkswagen,Polo,2011,Coupe,Diesel,Manual,170837,1197,121,14313
+Volkswagen,Polo,2017,Universal,Diesel,Manual,88123,2998,222,31189
+Opel,Insignia,2010,Universal,Hybrid,Manual,179126,2014,175,14492
+Volkswagen,Passat,2016,Sedan,Diesel,Automatic,103906,1999,110,26526
+Toyota,Yaris,2020,Hatchback,Diesel,Manual,61206,1968,180,36932
+Audi,Q7,2022,Hatchback,Hybrid,Manual,37147,1838,142,45515
+Opel,Insignia,2011,Sedan,Petrol,Automatic,167537,1197,107,11918
+Opel,Crossland,2022,SUV/Crossover,Petrol,Automatic,38041,1395,116,48475
+Toyota,Corolla,2009,SUV/Crossover,Petrol,Manual,195991,1999,137,7153
+Opel,Crossland,2022,Minivan,Petrol,Manual,35757,1997,136,39348
+Toyota,Camry,2015,Sedan,Petrol,Manual,115793,1395,60,19034
+BMW,1 Series,2015,Minivan,Hybrid,Automatic,113674,1754,174,32589
+Skoda,Fabia,2024,SUV/Crossover,Petrol,Manual,15000,1598,130,51954
+Opel,Grandland,2019,SUV/Crossover,Diesel,Manual,72967,1997,115,30873
+Ford,Focus,2017,Minivan,Petrol,Automatic,92121,1395,96,24874
+Opel,Grandland,2016,SUV/Crossover,Hybrid,Automatic,110903,2147,194,37319
+Renault,Scenic,2012,Hatchback,Electric,Manual,154164,0,247,29204
+Volkswagen,Passat,2013,Coupe,Diesel,Automatic,137374,999,71,16440
+Mercedes-Benz,E-Class,2009,Hatchback,Hybrid,Automatic,197025,2176,155,13332
+BMW,5 Series,2020,Sedan,Petrol,Manual,64575,1968,127,30312
+Toyota,Yaris,2013,Minivan,Hybrid,Manual,135937,1798,174,23172
+Hyundai,i30,2012,Hatchback,Petrol,Automatic,153749,1395,121,16801
+Mercedes-Benz,A-Class,2008,Coupe,Hybrid,Manual,201593,1589,138,9485
+Hyundai,i30,2013,Hatchback,Petrol,Manual,150557,1598,169,16045
+Renault,Captur,2013,Minivan,Diesel,Manual,143602,1598,67,16140
+Skoda,Superb,2023,Sedan,Diesel,Automatic,18016,1968,126,46160
+Audi,A6,2011,Universal,Petrol,Manual,171528,1598,112,11279
+Renault,Clio,2018,Coupe,Petrol,Manual,79076,1598,109,28624
+Audi,A4,2016,Sedan,Petrol,Manual,106958,1598,83,22825
+Toyota,RAV4,2010,SUV/Crossover,Petrol,Manual,176920,1968,152,7932
+Skoda,Fabia,2015,Universal,Diesel,Automatic,117758,1968,150,28209
+BMW,3 Series,2012,Hatchback,Petrol,Automatic,159749,2498,180,19958
+Volkswagen,Touareg,2011,Sedan,Petrol,Manual,174085,999,80,8657
+Opel,Grandland,2013,Hatchback,Petrol,Manual,138902,1999,132,17852
+Toyota,RAV4,2009,SUV/Crossover,Hybrid,Automatic,194504,2228,159,9336
+Hyundai,i20,2018,SUV/Crossover,Petrol,Manual,81068,1395,82,28675
+Hyundai,Tucson,2011,SUV/Crossover,Petrol,Manual,165193,1598,118,11354
+Hyundai,i30,2022,Hatchback,Petrol,Automatic,37962,1598,118,49009
+Mercedes-Benz,E-Class,2013,Sedan,Diesel,Automatic,139888,1395,101,16942
+Volkswagen,Passat,2024,SUV/Crossover,Hybrid,Manual,15000,1921,191,56553
+Hyundai,Kona,2013,Hatchback,Petrol,Manual,146920,999,60,16339
+Mercedes-Benz,A-Class,2009,Sedan,Petrol,Manual,190269,1395,100,5735
+Hyundai,Kona,2022,Minivan,Diesel,Manual,41308,1999,157,47844
+Hyundai,i30,2018,SUV/Crossover,Diesel,Manual,78908,1395,98,32165
+Ford,Puma,2015,SUV/Crossover,Petrol,Manual,125381,1999,112,22506
